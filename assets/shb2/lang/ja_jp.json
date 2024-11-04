@@ -1,0 +1,22 @@
+{
+    "metal.shb2.andesite_steel": "安山岩鋼",
+    "fluid.shb2.andesite_steel": "溶融安山岩鋼",
+    "metal.shb2.shishenium": "シシェニウム",
+    "fluid.shb2.shishenium": "溶融シシェニウム",
+    "metal.shb2.andesitic_lava": "安山岩質溶岩",
+    "fluid.shb2.sodium_aluminate_solution": "アルミン酸ナトリウム溶液",
+    "fluid.shb2.aluminum_hydroxide": "水酸化アルミニウム",
+    "fluid.shb2.alumina_solution": "アルミナ溶液",
+    "block.mm.electrolyzer_controller": "電解槽",
+    "block.mm.arc_melter_controller": "電気溶鉱炉",
+    "block.mm.simple_item_port_input": "簡易型アイテム入力ポート",
+    "block.mm.simple_item_port_output": "簡易型アイテム出力ポート",
+    "block.mm.simple_fluid_port_input": "簡易型液体入力ポート",
+    "block.mm.simple_fluid_port_output": "簡易型液体出力ポート",
+    "block.mm.simple_energy_port_input": "簡易型エネルギー入力ポート",
+    "block.mm.simple_energy_port_output": "簡易型エネルギー出力ポート",
+    "item.shb2.sodium_hydroxide": "水酸化ナトリウム",
+    "item.shb2.galvanized_plate": "トタン",
+    "item.shb2.rose_quartz_tube": "ローズクォーツ管",
+    "item.shb2.electron_base": "電子管ベース"
+}
